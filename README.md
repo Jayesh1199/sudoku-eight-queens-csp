@@ -38,5 +38,9 @@ jupyter notebook Solution.ipynb
 - **Backtracking Search** — automatically handled by the constraint library
 
 ## Sample Output
+### Sudoku Puzzle
+![Sudoku Output](Sudoku_Output.png)
 
+### Eight Queens Solution
+![Queens Output](Queens_Output.png)
 **Sudoku:**
